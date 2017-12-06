@@ -36,7 +36,7 @@ Table of Contents (updating)
           * [Video](#video)
    * [Pipeline using Deep Learning](#pipeline-using-deep-learning)
       * [Image Preprocessing](#image-preprocessing)
-      * [Training Classifier](#training-classifier)
+      * [Classifier](#classifier)
           * [ConvNet](#convnet)
           * [Prediction Visualisation](#prediction-visualisation)
       * [Pipeline](#pipeline)
@@ -221,7 +221,7 @@ To train the ConvNet, my training data should be in the form of images directly.
 
 Also, for each frame of the data, I flipped it over using `np.fliplr(img)` to gain additional data to make it more robust.
 
-## Training Classifier
+## Classifier
 
 ### ConvNet
 Here is the architecture of my ConvNet model:
