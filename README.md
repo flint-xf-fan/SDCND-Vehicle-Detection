@@ -137,7 +137,7 @@ Here is an example of the normalized feature vector:
 
 ## Training Classifier
 
-### Liner SVM
+### Linear SVM
 My first try was a simply linear SVM using sklearn in the 5th cell of the [notebook](./ML-clf.ipynb) for a balance of accuracy and speed to test my pipeline.
 
 A linear SVM with default setting can easily achieve 0.98+ test accuracy using 20% of the data. Then instead of fine-tuning the parameters, I decided to try other types of classifier first.
