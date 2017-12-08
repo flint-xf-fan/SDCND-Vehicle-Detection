@@ -2,10 +2,27 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
-<p align="center">
- <a href="https://youtu.be/z0a5T5eXJgg"><img src="https://img.youtube.com/vi/Rz8r4_qigSY/0.jpg" alt="Overview" width="50%" height="50%"></a>
- <br>Click for full video
-</p>
+<table style="width:100%">
+  <tr>
+    <th>
+      <p align="center">
+           <a href="https://youtu.be/z0a5T5eXJgg">
+           <img src="https://img.youtube.com/vi/Rz8r4_qigSY/0.jpg"
+           alt="vehicle detected" width="100%" height="80%">
+           <br>Vehicle Dectection
+      </p>
+    </th>
+    <th>
+      <p align="center">
+           <a href="https://youtu.be/T-Kwq9WOTwE">
+           <img src="./asset/output-2.gif"
+           alt="lane detected" width="80%" height="50%">
+           <br>Vehicle+Lane Detection
+      </p>
+    </th>
+  </tr>
+
+Click image for full video on YouTube!
 
 ---
 
@@ -299,15 +316,33 @@ Except the classifier part, the remaining pipeline is the same as described abov
 
 ## Final Video Output
 
-<p align="center">
- <a href="https://youtu.be/z0a5T5eXJgg"><img src="https://img.youtube.com/vi/z0a5T5eXJgg/0.jpg" alt="Overview" width="50%" height="50%"></a>
- <br>Click for full video
-</p>
+
+<table style="width:100%">
+  <tr>
+    <th>
+      <p align="center">
+           <a href="https://youtu.be/z0a5T5eXJgg">
+           <img src="https://img.youtube.com/vi/Rz8r4_qigSY/0.jpg"
+           alt="vehicle detected" width="100%" height="80%">
+           <br>Vehicle Dectection
+      </p>
+    </th>
+    <th>
+      <p align="center">
+           <a href="https://youtu.be/T-Kwq9WOTwE">
+           <img src="./asset/output-2.gif"
+           alt="lane detected" width="80%" height="50%">
+           <br>Vehicle+Lane Detection
+      </p>
+    </th>
+  </tr>
 
 
 # Discussion
 
 
-Overall, my classifier using ConvNet is working reasonably. I think one big improvement could be extract images of cars from the project video. I end up with not doing so is because I don't want overfit my classifier. Later I shall implement some techniques to track detected bounding boxes and add some smoothing to obtain a better output.
+Overall, my classifier using ConvNet is working reasonably. I think one big improvement could be extract images of cars from the project video. I end up with not doing so is because I don't want overfit my classifier.
+
+Later I shall implement some techniques to track detected bounding boxes and add some smoothing to obtain a better output.
 
 Also, there are some recent research on real-time object detection such as [Mask R-CNN](https://arxiv.org/abs/1703.06870), [YOLO(You Only Look Once)](https://pjreddie.com/darknet/yolo/) which we should check out.
