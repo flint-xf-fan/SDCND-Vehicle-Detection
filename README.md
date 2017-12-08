@@ -2,6 +2,8 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
+Click image for full video on YouTube!
+
 <table style="width:100%">
   <tr>
     <th>
@@ -22,7 +24,7 @@
     </th>
   </tr>
 
-Click image for full video on YouTube!
+
 
 ---
 
