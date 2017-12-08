@@ -5,15 +5,6 @@
 Click image for full video on YouTube!
 
 <table style="width:100%">
-  <tr>
-    <th>
-      <p align="center">
-           <a href="https://youtu.be/z0a5T5eXJgg">
-           <img src="https://img.youtube.com/vi/Rz8r4_qigSY/0.jpg"
-           alt="vehicle detected" width="100%" height="80%">
-           <br>Vehicle Dectection
-      </p>
-    </th>
     <th>
       <p align="center">
            <a href="https://youtu.be/T-Kwq9WOTwE">
@@ -22,9 +13,7 @@ Click image for full video on YouTube!
            <br>Vehicle+Lane Detection
       </p>
     </th>
-  </tr>
-
-
+  
 
 ---
 
@@ -62,7 +51,7 @@ Table of Contents (updating)
           * Sliding window
           * Heatmap Thresholding
           * Output
-      * [Final Video Output](#final-video-output)
+   * [Final Video Output](#final-video-output)
    * [Discussion](#discussion)
 ---
 
