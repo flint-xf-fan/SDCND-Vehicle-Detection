@@ -2,18 +2,12 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
-Click image for full video on YouTube!
 
-<table style="width:100%">
-    <th>
-      <p align="center">
-           <a href="https://youtu.be/T-Kwq9WOTwE">
-           <img src="./asset/output-2.gif"
-           alt="lane detected" width="80%" height="50%">
-           <br>Vehicle+Lane Detection
-      </p>
-    </th>
-  
+<p align="center">
+ <a href="https://youtu.be/T-Kwq9WOTwE"><img src="./asset/output-2.gif" alt="Overview" width="50%" height="50%"></a>
+ <br>Click for full video
+</p>
+  
 
 ---
 
